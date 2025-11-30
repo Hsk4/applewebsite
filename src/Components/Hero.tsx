@@ -1,4 +1,3 @@
-import React from "react";
 import { useRef } from "react";
 const Hero = () => {
   const videoRef = useRef<HTMLVideoElement>(null);
